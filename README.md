@@ -5,6 +5,5 @@
 
 ## 2017
 ![VBA_picture](https://github.com/Scheffa/VBA_Challenge.xlsm/blob/main/VBA_Challenge.xlsm_2017.png.jpg)
-
 ## 2018
-![VBA_piture](https://github.com/Scheffa/VBA_Challenge.xlsm/blob/main/VBA_Challenge.xlsm_2018.png.jpg)
+![VBA_picture](https://github.com/Scheffa/VBA_Challenge.xlsm/blob/main/VBA_Challenge.xlsm_2018.png.jpg)
